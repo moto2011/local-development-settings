@@ -7,6 +7,9 @@ Power10
 
 ## vim
 
+- colors
+https://github.com/cocopon/iceberg.vim
+
 ## IDE
 
 ### IntelliJ
