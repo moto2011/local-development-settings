@@ -10,6 +10,10 @@ Power10
 - colors
 https://github.com/cocopon/iceberg.vim
 
+## iTerm
+
+https://github.com/Arc0re/Iceberg-iTerm2
+
 ## IDE
 
 ### IntelliJ
