@@ -2,6 +2,11 @@
 
 ## zsh
 
+zinit
+Power10
+
+## vim
+
 ## IDE
 
 ### IntelliJ
